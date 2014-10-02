@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+author: "S Santos"
+date: "Thursday, October 02, 2014"
+output: html_document
+---
+
+Reader here:
+
+
+Apparent height of nanostructure [here](http://scitation.aip.org/content/aip/journal/jcp/137/4/10.1063/1.4737516)
+
+Apparent height water films [here](http://iopscience.iop.org/0957-4484/labtalk-article/47649)
+
+
+and [here](http://iopscience.iop.org/0957-4484/22/46/465705)
+
+ALSO [here](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023821)
